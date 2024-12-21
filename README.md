@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate VLSI and Semiconductor Enthusiast
 ## 🌱 Currently Learning
 
 - **Physical Design (Place & Route)**
-- **Software Development**: Exploring Python and C#
+- **Software Development**: Exploring Python and C++
 
 ## 🌐 Connect with Me
 
