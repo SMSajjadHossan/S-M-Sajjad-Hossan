@@ -1,7 +1,7 @@
 # S-M-Sajjad-Hossan
 # Hello, I'm S M Sajjad Hossan 👋
 
-Welcome to my GitHub profile! I'm a passionate VLSI and Semiconductor Enthusiast, currently diving deep into VLSI design, Physical Design (Place and Route), and more. I'm also exploring software development and coding languages like Python, C, and C#.
+Welcome to my GitHub profile! I'm a passionate VLSI and Semiconductor Enthusiast, currently diving deep into VLSI design, Physical Design (Place and Route), and more. I'm also exploring software development and coding languages like Python, C++, and JAVA
 
 ## 🚀 About Me
 
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate VLSI and Semiconductor Enthusiast
 - 💻 Currently pursuing **Professional VLSI Training** in Physical Design at **VLSI Training Academy (TAHOE)**
 - 🌍 Represented Bangladesh in the **Huawei Seeds for the Future 2024** Asia Pacific regional round
 - 💡 Passionate about **VLSI design, digital and analog circuits**, and **semiconductor technology**
-- 📚 Currently learning Python and C#
+- 📚 Currently learning Python and JAVA
 
 ## 🔧 Technologies & Tools
 
