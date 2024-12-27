@@ -36,7 +36,6 @@ Welcome to my GitHub profile! I'm a passionate VLSI and Semiconductor Enthusiast
 
 - [LinkedIn](https://www.linkedin.com/in/averyurl/)
 - [GitHub](https://github.com/SMSajjadHossan)
--
 - [YouTube: ABC of Success](https://www.youtube.com/@BeyondTheSuccess)
 
 
