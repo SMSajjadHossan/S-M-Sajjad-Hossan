@@ -39,21 +39,7 @@ Welcome to my GitHub profile! I'm a passionate VLSI and Semiconductor Enthusiast
 -
 - [YouTube: ABC of Success](https://www.youtube.com/@BeyondTheSuccess)
 
-- name: GitHub Profile Views
 
-on:
-  schedule:
-    - cron: '0 0 * * *' # This runs the action once every day (adjust if needed)
-  workflow_dispatch:
-
-jobs:
-  profile-views:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Fetch GitHub Profile Views
-        uses: `ninjaaron/github-profile-views-action@v2`
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
 
 
 ## 📩 How to Reach Me
